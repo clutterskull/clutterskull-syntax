@@ -61,8 +61,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment,
-punctuation.definition.comment</string>
+			<string>comment, punctuation.definition.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -173,8 +172,7 @@ punctuation.definition.comment</string>
 			<key>name</key>
 			<string>Punctuation, Braces</string>
 			<key>scope</key>
-			<string>meta.brace,
-punctuation</string>
+			<string>meta.brace, punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -514,8 +512,7 @@ punctuation</string>
 			<key>name</key>
 			<string>§ css additional-constants</string>
 			<key>scope</key>
-			<string>meta.property-value support.constant.named-color.css, meta.property-value constant,
-constant.numeric.css</string>
+			<string>meta.property-value support.constant.named-color.css, meta.property-value constant, constant.numeric.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
