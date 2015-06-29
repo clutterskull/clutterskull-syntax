@@ -1,5 +1,15 @@
-# clutterskull-theme theme
+# clutterskull theme
 
-A short description of your theme.
+A dark color theme loosely based on Twilight with higher contrast and brighter colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![HTML](https://raw.githubusercontent.com/clutterskull/clutterskull-theme/master/images/html.png)
+
+![JavaScript](https://raw.githubusercontent.com/clutterskull/clutterskull-theme/master/images/javascript.png)
+
+[John Hutchison](https://github.com/clutterskull)
+
+
+License
+----
+
+GPL3
