@@ -1,7 +1,6 @@
-clutterskull theme
-=========
+# clutterskull theme
 
-A dark color theme for various editors.
+A dark color theme loosely based on Twilight with higher contrast and brighter colors.
 
 ![HTML](https://raw.githubusercontent.com/clutterskull/clutterskull-theme/master/images/html.png)
 
