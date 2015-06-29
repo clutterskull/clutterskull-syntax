@@ -1,6 +1,6 @@
 # clutterskull theme
 
-A dark color theme loosely based on Twilight with higher contrast and brighter colors.
+A dark syntax theme loosely based on Twilight with higher contrast and brighter colors.
 
 ![HTML](https://raw.githubusercontent.com/clutterskull/clutterskull-theme/master/images/html.png)
 
